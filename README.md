@@ -1,0 +1,4 @@
+JavaTraining
+============
+
+Just practise java.
